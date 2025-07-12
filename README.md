@@ -30,4 +30,6 @@ This project implements an AI-powered Predictive Maintenance System using machin
 If any of these parameters fall outside the safe range, the app highlights them visually.
 
 ---
+## 🚀 How to Run the App
 
+streamlit run app.py
